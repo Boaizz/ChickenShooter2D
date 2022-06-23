@@ -1,3 +1,4 @@
+#made by Nguyen Dang Khanh Toan
 require 'gosu'
 
 module ZOrder
