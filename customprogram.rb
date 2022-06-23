@@ -6,6 +6,8 @@ module ZOrder
 
 
 
+
+class FarmInvaders < Gosu::Window
     MAX_ENEMIES = 200
      WIDTH = 1000
     HEIGHT = 800
