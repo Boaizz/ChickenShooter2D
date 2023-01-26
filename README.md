@@ -1,2 +1,2 @@
 # ChickenShooter2D
-A game based on Chicken Invader.
+Space Shooter Game using Gosu .
